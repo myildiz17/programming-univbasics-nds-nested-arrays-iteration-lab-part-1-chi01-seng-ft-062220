@@ -13,4 +13,3 @@ while row_index < my_books.count do
     element_index +=1
   end
 end
-  
